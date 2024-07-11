@@ -1,0 +1,8 @@
+{
+    "games": [
+        {"name": "Juego 1", "sales": 5000000},
+        {"name": "Juego 2", "sales": 3000000},
+        {"name": "Juego 3", "sales": 4000000},
+        {"name": "Juego 4", "sales": 2000000}
+    ]
+}

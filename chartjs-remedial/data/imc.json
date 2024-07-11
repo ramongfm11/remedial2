@@ -1,0 +1,8 @@
+{
+    "countries": [
+        {"name": "País 1", "bmi": 25.5},
+        {"name": "País 2", "bmi": 27.0},
+        {"name": "País 3", "bmi": 26.5},
+        {"name": "País 4", "bmi": 24.0}
+    ]
+}

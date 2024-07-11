@@ -1,0 +1,8 @@
+{
+    "diseases": [
+        {"name": "Enfermedad 1", "deaths": 1000000},
+        {"name": "Enfermedad 2", "deaths": 800000},
+        {"name": "Enfermedad 3", "deaths": 600000},
+        {"name": "Enfermedad 4", "deaths": 400000}
+    ]
+}
